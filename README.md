@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm an applied mathematics student wokring on project realted to data science, statistics and machine learning.  
+I'm an applied mathematics student working on projects related to data science, statistics, and machine learning.
+
+
 
 <!--
 **eawaara/eawaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
